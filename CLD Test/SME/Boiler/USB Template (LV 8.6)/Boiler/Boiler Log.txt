@@ -1,0 +1,11 @@
+Date,Time,Event String,Event Data
+23/07/2016,12:23 AM,Boiler Initialized,0
+23/07/2016,12:23 AM,Boiler Ready,0
+23/07/2016,12:23 AM,Start Pre-Purge,0
+23/07/2016,12:23 AM,Pre-Purge Complete,3
+23/07/2016,12:23 AM,Pilot ON,True
+23/07/2016,12:23 AM,Pilot Proved,76
+23/07/2016,12:23 AM,Force Dreft Fan On,True
+23/07/2016,12:24 AM,Boiler Running,93
+23/07/2016,12:24 AM,Shut Down purge Complete,10
+23/07/2016,12:24 AM,Boiler Initialized,0

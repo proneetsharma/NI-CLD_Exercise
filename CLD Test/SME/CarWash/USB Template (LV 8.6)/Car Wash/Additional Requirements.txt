@@ -1,0 +1,15 @@
+1. Create a String Control to input Car Registration Number above Start Button, Create String Indicator to display information.
+	- Reg Number (String Control)
+	- Information (String Indicator)
+
+2. Record the process data in .csv file as follows
+
+Carwash.csv
+————————————
+Date, Time, RegNum, Station 1, Station 2, Station 3
+————————————
+Station 1, Station 2, Station 3 are boolean values. 
+for e.g. if a car has used services from Station 2 and 3, it should write FALSE, TRUE, TRUE.
+
+3. If the Reg Number exists, display ‘Returning Customer’ in Reg Number.
+else, display ‘New Customer’.
