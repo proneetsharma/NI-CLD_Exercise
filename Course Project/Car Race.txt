@@ -1,0 +1,9 @@
+Ram,Gurung,ram,gurung,1000
+Sudhir,Gupta,sudhir,gupta,1000
+Patitosh,Mishra,paritosh,mishra,1483.00
+Proneet,Sharma,proneet,sharma,2020.00
+Surbhika,Rastogi,surbhika,rastogi,1000
+Anshika,Tyagi,anshika,tyagi,1000
+Ayush,Srivastav,ayush,srivastav,1000
+Bhusan,Verma,bhusan,verma,1000
+Paras,Narula,paras,narula,1000
