@@ -1,0 +1,13 @@
+Timestamp,Event,Event Data
+01/08/2016,12:06 AM,Boiler Initialized,0
+01/08/2016,12:06 AM,Boiler Ready,0
+01/08/2016,12:06 AM,Start Pre-Purge,0
+01/08/2016,12:06 AM,Pre-Purge Completed,5
+01/08/2016,12:06 AM,Pilot On,True
+01/08/2016,12:06 AM,Pilot Proved,77
+01/08/2016,12:06 AM,Forced Data Fan On,True
+01/08/2016,12:06 AM,Boiler Running,24
+01/08/2016,12:06 AM,Boiler Running,30
+01/08/2016,12:06 AM,Boiler Running,32
+01/08/2016,12:07 AM,Start Shutdown Purge,0
+01/08/2016,12:07 AM,Shutdown Purge Complete,10

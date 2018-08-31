@@ -1,0 +1,4 @@
+John,Doe,12345,550
+Jennifer,Rodriguez,23456,1000
+Bryan,Smith,34567,750
+Julie,Ramirez,45678,900

@@ -1,0 +1,17 @@
+Date	Time	Zone	Status
+31/07/2016	2:36 AM	1	Alarm
+31/07/2016	2:36 AM	2	Bypass
+31/07/2016	2:36 AM	3	Tamper
+31/07/2016	2:36 AM	4	Bypass
+31/07/2016	2:36 AM	5	Alarm
+31/07/2016	8:11 PM	1	Alarm
+31/07/2016	8:11 PM	1	Bypass
+31/07/2016	8:11 PM	1	Tamper
+31/07/2016	8:11 PM	1	Tamper
+31/07/2016	8:11 PM	1	Tamper
+31/07/2016	8:11 PM	2	Alarm
+31/07/2016	8:11 PM	2	Bypass
+31/07/2016	8:11 PM	2	Tamper
+31/07/2016	8:11 PM	3	Bypass
+31/07/2016	8:11 PM	4	Bypass
+31/07/2016	8:11 PM	5	Bypass
